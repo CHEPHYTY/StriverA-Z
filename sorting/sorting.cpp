@@ -70,6 +70,9 @@ void InsertionSorting(int arr[], int n)
     }
 }
 
+void mergeSort(int arr[], int n)
+{
+}
 int main()
 {
     ios_base::sync_with_stdio(false);
